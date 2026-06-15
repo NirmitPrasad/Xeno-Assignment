@@ -1,0 +1,9 @@
+[build]
+buildCommand = "npm install --include=dev && npm run build"
+
+[deploy]
+startCommand = "HOST=0.0.0.0 PORT=$PORT npm run start"
+healthcheckPath = "/"
+healthcheckTimeout = 30
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3

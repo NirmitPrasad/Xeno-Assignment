@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /landing
+Disallow: /campaigns
+Disallow: /customers
+Disallow: /templates
+Disallow: /analytics
+Disallow: /api/
