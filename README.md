@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| 🌐 **Live Demo** | [your-app-url.vercel.app][LIVE_URL] |
+| 🌐 **Live Demo** | https://xeno-minicrm.up.railway.app/ |
 
 **Demo credentials**
 ```
