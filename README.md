@@ -1,4 +1,4 @@
-# Signl — Shopper CRM
+# Xeno AI — MINI CRM
 
 > AI-native campaign management for D2C brands.  
 > Built as part of the Xeno Engineering Internship Assignment 2026.
@@ -27,11 +27,11 @@ Password:  demo123
 
 ## What I Built
 
-Signl is a **chat-first AI-native Shopper CRM** built for Lumière — a fictional D2C skincare brand. Instead of a traditional dashboard with forms and dropdowns, the primary interface is a natural language conversation. The marketer describes their intent, and the AI segments customers, drafts messages, previews campaigns, and launches them — all from a single chat.
+AI-native Mini CRM for a Coffee Chain is a **chat-first AI-native Shopper CRM** built for a fictional D2C coffee brand. Instead of a traditional dashboard with forms and dropdowns, the primary interface is a natural language conversation. The marketer describes their intent, and the AI segments customers, drafts messages, previews campaigns, and launches them — all from a single chat.
 
 The core product insight: **a marketer should never have to think in SQL or filters.** They should just say what they want.
 
-> *"Send a Diwali offer to customers who bought serums but haven't returned in 60 days"*
+> *"Send a Diwali offer to customers who bought once but haven't returned in 60 days"*
 
 The AI handles everything from that one sentence.
 
@@ -44,11 +44,11 @@ The AI handles everything from that one sentence.
 | | |
 |---|---|
 | ![Dashboard](public/screenshots/dashboard.png) | ![AI Assistant](public/screenshots/ai-assistant.png) |
-| **Dashboard** — Live metrics, activity feed, active campaigns | **AI Assistant** — Chat-first campaign creation |
+| **Dashboard** — Live metrics, activity feed, active campaigns | **AI Barista Copilot** — Chat-first campaign creation |
 | ![Campaigns](public/screenshots/campaigns.png) | ![Campaign Detail](public/screenshots/campaign-detail.png) |
-| **Campaigns** — Full lifecycle with status tracking | **Campaign Detail** — Live funnel, AI insight, message log |
+| **Marketing Drops** — Full lifecycle with status tracking | **Marketing Drops Detail** — Live funnel, AI insight, message log |
 | ![Customers](public/screenshots/customers.png) | ![Analytics](public/screenshots/analytics.png) |
-| **Customers** — Searchable profiles with order history | **Analytics** — Channel performance, engagement breakdown |
+| **Guest Directory** — Searchable profiles with order history | **ROI Insights** — Channel performance, engagement breakdown |
 
 <br/>
 
@@ -321,7 +321,7 @@ VITE_SUPABASE_PUBLISHABLE_KEY= # Same as SUPABASE_PUBLISHABLE_KEY (for client bu
 
 Built by **Nirmit Prasad** for the Xeno Engineering Internship 2026.
 
-Xeno helps consumer brands reach their shoppers in meaningful, data-driven ways. Signl is a demonstration of what an AI-native CRM could look like — not a traditional tool with AI bolted on, but a product where AI is the primary interface. The name says it all: send the signal that converts.
+Xeno helps consumer brands reach their shoppers in meaningful, data-driven ways. It is a demonstration of what an AI-native CRM could look like — not a traditional tool with AI bolted on, but a product where AI is the primary interface. The name says it all: send the signal that converts.
 
 ---
 
